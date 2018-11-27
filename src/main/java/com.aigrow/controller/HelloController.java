@@ -7,4 +7,7 @@ public class HelloController {
     public void sayHello(){
         System.out.println("sayHello");
     }
+    public void sayHello2(){
+        System.out.println("sayHello2");
+    }
 }
